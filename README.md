@@ -8,7 +8,7 @@
 
 Irvin Campbell | Syd Rothman
 ------------ | -------------
-EDA - IMDB dataframes | EDA - Non-IMDB dataframes
+EDA - Non-IMDB dataframes | EDA - IMDB dataframes
 job 2 | job 2
 
 ## File Summary
