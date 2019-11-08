@@ -8,7 +8,7 @@
 
 Irvin Campbell | Syd Rothman
 ------------ | -------------
-job 1 | job 1
+EDA - IMDB dataframes | EDA - Non-IMDB dataframes
 job 2 | job 2
 
 ## File Summary
@@ -27,7 +27,7 @@ job 2 | job 2
 
  Posted to git repository:
 
- - []  A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
+ - [X]  A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
  - [] At least 10 commits
  - []  Must include short, descriptive commit messages
  - []  Each project member should commit at least once
