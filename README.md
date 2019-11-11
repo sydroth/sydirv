@@ -8,12 +8,13 @@
 
 Irvin Campbell | Syd Rothman
 ------------ | -------------
-EDA - Non-IMDB dataframes | EDA - IMDB dataframes
+Non-IMDB data EDA | IMDB data EDA
 job 2 | job 2
 
 ## File Summary
  - README.md : A README file containing our project members, member responsibilities, our goals, our project specs, and a summary of our files.
  - MIT License : A general standard license that establishes our repository as open for use.
+ - unzippedData : all provided data by Flatiron in unzipped CSV files
   
 ## Project Specs
  Use data from at least two sources
