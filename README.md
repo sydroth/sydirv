@@ -8,12 +8,13 @@
 
 Irvin Campbell | Syd Rothman
 ------------ | -------------
-job 1 | job 1
+Non-IMDB data EDA | IMDB data EDA
 job 2 | job 2
 
 ## File Summary
  - README.md : A README file containing our project members, member responsibilities, our goals, our project specs, and a summary of our files.
  - MIT License : A general standard license that establishes our repository as open for use.
+ - unzippedData : all provided data by Flatiron in unzipped CSV files
   
 ## Project Specs
  Use data from at least two sources
@@ -27,7 +28,7 @@ job 2 | job 2
 
  Posted to git repository:
 
- - []  A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
+ - [X]  A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
  - [] At least 10 commits
  - []  Must include short, descriptive commit messages
  - []  Each project member should commit at least once
