@@ -10,6 +10,9 @@ Irvin Campbell | Syd Rothman
 ------------ | -------------
 Non-IMDB data EDA | IMDB data EDA
 combine all ratings data | combine all runtime data
+question 1 anaylsis | question 3 analysis
+question 2 analysis | question 4 analysis
+ | side deck rough draft
 
 ## File Summary
  - README.md : A README file containing our project members, member responsibilities, our goals, our project specs, and a summary of our files.
@@ -31,7 +34,7 @@ combine all ratings data | combine all runtime data
  - [X]  A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
  - [] At least 10 commits
   - []  Must include short, descriptive commit messages
-  - []  Each project member should commit at least once
+  - [X]  Each project member should commit at least once
  - []  A Jupyter notebook targeted to a technical audience that contains clean and commented code
   - []  independent party can replicate your analysis and justify your analytical choices
   - []  Code should follow Pep8 standards
