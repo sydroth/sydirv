@@ -1,0 +1,29 @@
+- Box Office Mojo: bo_mojo
+3387 entries
+movie by domestic gross, foreign gross, studio, year
+
+
+
+
+- TheMovieDB.org: theMovieDB
+26,517 entries
+
+
+
+- the-numbers.com: the_numbers
+5,782 entries
+
+
+- Rotten Tomatoes: rt_movies, 
+~1,000 entries
+
+
+- Rotten Tomatoes: rt_reviews
+~50,000 entries
+
+
+
+
+group films by revenue
+group films by cost
+pay more attention to audience score or to critic score? or to something else?
