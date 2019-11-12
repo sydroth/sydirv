@@ -12,7 +12,7 @@ Non-IMDB data EDA | IMDB data EDA
 combine all ratings data | combine all runtime data
 question 1 anaylsis | question 3 analysis
 question 2 analysis | question 4 analysis
-- | slide deck rough draft
+presentation prep | slide deck rough draft
 
 ## File Summary
  - README.md : A README file containing our project members, member responsibilities, our goals, our project specs, and a summary of our files.
